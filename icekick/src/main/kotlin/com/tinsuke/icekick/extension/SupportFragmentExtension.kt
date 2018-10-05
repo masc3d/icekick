@@ -2,7 +2,7 @@ package com.tinsuke.icekick.extension
 
 import android.os.Bundle
 import android.os.Parcelable
-import android.support.v4.app.Fragment
+import androidx.fragment.app.Fragment
 import com.tinsuke.icekick.IceKick
 import com.tinsuke.icekick.bundler.Bundler
 import java.io.Serializable
